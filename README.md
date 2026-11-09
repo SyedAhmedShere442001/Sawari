@@ -1,6 +1,6 @@
 # sawari
 
-A new Flutter project.
+Sawari is a Flutter taxi-booking app for Pakistan. Riders first pick a city, choose a destination, and book a Bike, Rickshaw, Mini or Comfort ride with fares in PKR. They can use promo codes, pay by Cash, JazzCash, Easypaisa or Card, track a simulated live trip, and rate drivers. It runs on built-in demo data, so it’s a polished frontend prototype.
 
 ## Getting Started
 
